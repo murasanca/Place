@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "471468369131",
+    "firebase_url": "https://place-40010-default-rtdb.firebaseio.com",
+    "project_id": "place-40010",
+    "storage_bucket": "place-40010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471468369131:android:6c654a0aaa04c186734aae",
+        "android_client_info": {
+          "package_name": "com.murasanca.Place"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471468369131-6f43ntvju4bbdtio2m6t8o7m70h6fe0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.murasanca.Place",
+            "certificate_hash": "b3d770e3b03334a2dd5a0490a1f1b5a1d2405c8f"
+          }
+        },
+        {
+          "client_id": "471468369131-1q877l4vip18o9jlbochgkjev1ahfqfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqXyKo7R-axdGBNeXVQYTAdu-k4jeyQNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471468369131-1q877l4vip18o9jlbochgkjev1ahfqfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
