@@ -44,4 +44,3 @@ If there's no place like Place, you can give Place 5 stars.
 Murat Sancak
 <br>
 ∞
-<hr>
