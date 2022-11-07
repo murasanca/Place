@@ -45,4 +45,3 @@ Murat Sancak
 <br>
 ∞
 <hr>
-<img alt="The Queen's Gambit" src="https://github.com/murasanca/Database/blob/main/QG/QG7680x4320.png">
