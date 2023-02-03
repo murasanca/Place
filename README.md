@@ -1,43 +1,25 @@
 # <a href="https://play.google.com/store/apps/details?id=com.murasanca.Place" target="_blank">Place</a>
 There's no place like Place.
 <hr>
-There is an empty canvas. You may place a tile upon it, but you must wait to place another. Individually you can create something. Together you can create something more.
+Get ready to immerse yourself in endless creativity and competition with the ultimate online canvas challenge!
 <br><br>
-Place Rules
-<br>
-1. Be Creative
-<br>
-Be creative and have fun.
-<br>
-2. Be Civil
-<br>
-It's OK to engage in heated discussions but please refrain from flinging personal insults, trolling other users, or harassing people.
-<br>
-3. Follow Application-Wide Rules
-<br>
-Follow Place's privacy policy.
-<br>
-4. Participate in Good Faith
-<br>
-Comment, post, and add tiles to add to a community experience, not subtract from it.
+Experience the excitement of building and competing with millions of players in real time. This addictive and engaging multiplayer game is designed to unleash your imagination and test your skills.
 <br><br>
-How To Participate
+Unleash your creativity: Create unique and stunning art that will blow the minds of other players.
 <br>
-Click into the paintbrush at the bottom!
+Test your skills: Dominate the leaderboard by showing off your creativity and strategic skills.
 <br>
-If you can't see it:
+Regular updates: With regular updates and new challenges, there's always something new to experience and enjoy.
 <br>
-1. Restart your app.
+For everyone: Whether you're a seasoned player or a newcomer to the online canvas community, this must-play app keeps you entertained for hours on end.
 <br>
-2. If you are authenticated with Google Play Games, ensure your app is up to date.
+Download now and join the fun! Show the world your artistic talent and become the master of the online canvas challenge. With millions of players from all around the world, you're sure to find a worthy opponent and create lifelong memories. So what are you waiting for? Download now and start building your masterpiece today!
 <br><br>
-About Community
-<br>
-Some have visited a canvas before. A place where togetherness created more. Now in numbers far smaller, taking less space, it falls upon you to create a better place.
+If you have any questions or concerns, please do not hesitate to reach out to us at murasanca@pm.me.
 <br><br>
-Place has started. Thank you to everyone who participated. Maybe the real art was the friends we made along the way.
+We are constantly striving to improve our app and would greatly appreciate your support. If you have had a positive experience with our game, we would be grateful if you could leave a 5-star rating in the Google Play Store. Your support will help us to continue to develop new and exciting features and reach a wider audience.
 <br><br>
-If there's no place like Place, you can give Place 5 stars.
+Thank you for choosing our online canvas challenge game and we hope you continue to have a fun and enjoyable experience. Don't forget to share your masterpieces with the world and challenge your friends to join the competition. Happy building!
 <hr>
 <a href="mailto:murasanca@pm.me" target="_blank">murasanca@pm.me</a>
 <br><br>
