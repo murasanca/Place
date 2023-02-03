@@ -1,4 +1,5 @@
 trackSelection = true
+refreshSearchWindowsInPlayMode = false
 fetchPreview = true
 defaultFlags = 0
 keepOpen = false
@@ -16,6 +17,17 @@ scopes = {
 	"last_search.3619CCAF" = ""
 	"OpenInspectorPreview.3619CCAF" = "0"
 	"currentGroup.3619CCAF" = "all"
+	"last_search.45C55C1A" = "t:Texture"
+	"OpenInspectorPreview.45C55C1A" = "0"
+	"currentGroup.45C55C1A" = "asset"
+	"last_search.98CF4AA6" = ""
+	"OpenInspectorPreview.98CF4AA6" = "0"
+	"currentGroup.98CF4AA6" = "scene"
+	"picker_window_position_offset.0B486DF2" = "662;60;320;550"
+	"picker_search_text.0B486DF2" = ""
+	"last_search.0B486DF2" = ""
+	"OpenInspectorPreview.0B486DF2" = "0"
+	"currentGroup.0B486DF2" = null
 }
 providers = {
 	adb = {
@@ -58,6 +70,11 @@ providers = {
 		priority = 50
 		defaultAction = null
 	}
+	presets_provider = {
+		active = false
+		priority = -10
+		defaultAction = null
+	}
 }
 objectSelectors = {
 }
@@ -67,6 +84,7 @@ searchItemFavorites = [
 ]
 savedSearchesSortOrder = 0
 showSavedSearchPanel = false
+hideTabs = false
 expandedQueries = [
 ]
 queryBuilder = false

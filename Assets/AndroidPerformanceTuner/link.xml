@@ -1,7 +1,0 @@
-<linker>
-    <assembly fullname="Google.Protobuf">
-        <type fullname="Google.Protobuf.JsonFormatter" preserve="all"/>
-    </assembly>
-</linker>
-
-   

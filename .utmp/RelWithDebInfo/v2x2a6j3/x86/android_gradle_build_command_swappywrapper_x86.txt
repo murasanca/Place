@@ -1,0 +1,7 @@
+Executable : C:\Program Files\Unity\Hub\Editor\2023.1.0a26\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\cmake\3.22.1\bin\ninja.exe
+arguments : 
+-C
+C:\Users\muras\OneDrive\Belgeler\GitHub\Place\.utmp\RelWithDebInfo\v2x2a6j3\x86
+swappywrapper
+jvmArgs : 
+

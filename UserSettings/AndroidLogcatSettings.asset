@@ -11,32 +11,32 @@
         {
             "deviceId": "521087764678c359",
             "name": "com.murasanca.Place",
-            "processId": 10397,
+            "processId": 25159,
             "exited": true
         },
         {
             "deviceId": "521087764678c359",
-            "name": "com.sec.android.app.launcher",
-            "processId": 4235,
+            "name": "com.murasanca.Place",
+            "processId": 25814,
+            "exited": true
+        },
+        {
+            "deviceId": "521087764678c359",
+            "name": "com.murasanca.Place",
+            "processId": 26238,
+            "exited": true
+        },
+        {
+            "deviceId": "521087764678c359",
+            "name": "com.murasanca.Place",
+            "processId": 31740,
+            "exited": true
+        },
+        {
+            "deviceId": "521087764678c359",
+            "name": "com.murasanca.Place",
+            "processId": 18773,
             "exited": false
-        },
-        {
-            "deviceId": "521087764678c359",
-            "name": "com.murasanca.Place",
-            "processId": 11498,
-            "exited": true
-        },
-        {
-            "deviceId": "521087764678c359",
-            "name": "com.murasanca.Place",
-            "processId": 15453,
-            "exited": true
-        },
-        {
-            "deviceId": "521087764678c359",
-            "name": "com.murasanca.Place",
-            "processId": 25621,
-            "exited": true
         }
     ],
     "m_Tags": {
@@ -90,7 +90,7 @@
         "Behavior": 0
     },
     "m_FilterOptions": {
-        "m_Filter": "",
+        "m_Filter": "play",
         "m_UseRegularExpressions": false,
         "m_MatchCase": false
     },

@@ -1,0 +1,5 @@
+C:/Users/muras/OneDrive/Belgeler/GitHub/Place/.utmp/RelWithDebInfo/v2x2a6j3/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/muras/OneDrive/Belgeler/GitHub/Place/.utmp/RelWithDebInfo/v2x2a6j3/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/muras/OneDrive/Belgeler/GitHub/Place/.utmp/RelWithDebInfo/v2x2a6j3/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/muras/OneDrive/Belgeler/GitHub/Place/.utmp/RelWithDebInfo/v2x2a6j3/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/muras/OneDrive/Belgeler/GitHub/Place/.utmp/RelWithDebInfo/v2x2a6j3/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
